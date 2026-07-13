@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FreesiaKernel for Rosemary by kii
+kernel.string=im going to catch you hehe
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,6 +13,8 @@ do.cleanuponabort=0
 device.name1=rosemary
 device.name2=secret
 device.name3=maltose
+device.name4=secretr
+device.name5=rosemary_p
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
